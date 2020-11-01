@@ -1,0 +1,36 @@
+#quantri{
+	margin: auto;
+	border: 5px solid red;
+	width: 1000px;
+	height: 1330px;
+}
+
+.tieude{
+	text-align: center;
+	color: #0040FF;
+	font-weight: bold;
+
+}
+
+.main-content{
+	margin:auto;
+	border:1px solid #DF0101;
+}
+.content{
+	float: left;
+	border: 1px solid blue;
+	margin-top: 20px;
+	margin-right: 5px;
+	padding: 5px;
+	font-weight: bold;
+	color: #00FF00;
+	text-align: center;
+}
+
+.float{
+	clear: none;
+}
+
+a{
+	text-decoration: none;
+}
